@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 📚 Mi Primera API REST con Node.js
 
 > Proyecto educativo para aprender desarrollo de APIs REST con Node.js y Express
@@ -247,3 +248,6 @@ Revisa la carpeta `docs/` para ejercicios progresivos.
 ---
 
 **¿Necesitas ayuda?** Consulta con tu instructor o revisa la documentación oficial de Node.js y Express.
+=======
+# APIS-REST-Y-NODE.JS-
+>>>>>>> 9ee02676a2ccc80cd88bdd12ccd2cd2398042653
